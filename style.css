@@ -49,6 +49,16 @@ h3 {
   font-size: 2rem;
 }
 
+h4 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: bolder;
+}
+
+p {
+  margin: 0;
+}
+
 .hidden-bullet {
   list-style: none;
 }
