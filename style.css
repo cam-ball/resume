@@ -15,3 +15,17 @@ html, body {
   color: white;
   border-radius: 5px;
 }
+
+.heading {
+  align-items: center;
+  text-transform: uppercase;
+  padding-left: 5em;
+}
+
+hr.thin {
+  height: 1px;
+  border: 0;
+  color: lightgrey;
+  background-color: lightgrey;
+  width: 80%;
+}
