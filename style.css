@@ -16,12 +16,12 @@ html, body {
   background-color: #434343;
   color: white;
   border-radius: 5px;
+  padding: 0em 2em;
 }
 
 .heading {
-  align-items: center;
   text-transform: uppercase;
-  padding-left: 5em;
+  margin-bottom: 0em;
 }
 
 hr.thin {
@@ -29,7 +29,8 @@ hr.thin {
   border: 0;
   color: lightgrey;
   background-color: lightgrey;
-  width: 80%;
+  width: 90%;
+  padding: auto;
 }
 
 h1 {
@@ -41,4 +42,13 @@ h1 {
 h2 {
   font-size: 2rem;
   font-weight: lighter;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+}
+
+.hidden-bullet {
+  list-style: none;
 }
