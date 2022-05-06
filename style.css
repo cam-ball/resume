@@ -55,13 +55,13 @@ h1, h2, h3, h4 {
   padding: 2rem 2rem;
 }
 
-.experience-section {
-  padding: 1rem 0rem;
-}
-
-.experience-section h3 {
+#experience h3 {
   font-weight: bolder;
   margin: 0;
+}
+
+.experience-section {
+  padding: 1rem 0rem;
 }
 
 .role-details h4 {
@@ -75,7 +75,7 @@ h1, h2, h3, h4 {
  margin-bottom: 1rem;
 }
 
-hr.thin {
+#sidebar hr {
   height: 1px;
   border: 0;
   color: lightgrey;
