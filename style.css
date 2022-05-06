@@ -16,7 +16,11 @@ html, body {
   background-color: #434343;
   color: white;
   border-radius: 5px;
-  padding: 2em 2em;
+  padding: 2rem 2rem;
+}
+
+#experience {
+  padding: 2rem 2rem;
 }
 
 .heading {
@@ -37,6 +41,7 @@ h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 5rem;
   line-height: 1.25em;
+  margin: 0;
 }
 
 h2 {
